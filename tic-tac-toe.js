@@ -1,5 +1,3 @@
-
-
 window.onload =function() {
     const game =document.getElementById("game");
     const status =document.getElementById("status");
